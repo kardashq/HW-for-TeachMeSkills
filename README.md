@@ -1,2 +1,2 @@
 # HW-for-TeachMeSkills
-HomeWork for TeachMeSkills Python cources
+Homeworks for TeachMeSkills Python cources
